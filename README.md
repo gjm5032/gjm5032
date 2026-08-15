@@ -31,11 +31,11 @@ Since then, I've been working hard to build a strong foundation in AI.
 
 My current GPA is **4.02 / 4.5** (not perfect, but not too bad, I guess), and I'm planning to graduate early.
 
-For my graduation project, I'm currently building a *long-term memory conversational agent*.
+For my graduation project, I'm currently building a **long-term memory conversational agent**.
 
 I'm especially focusing on the memory system — how an AI can remember important information from past conversations, retrieve it when needed, and use it to maintain meaningful long-term interactions.
 
-It's still a work in progress, but I hope this project brings me one step closer to building an AI like *Samantha*.
+It's still a work in progress, but I hope this project brings me one step closer to building an AI like **Samantha**.
 
 ## Projects
 
