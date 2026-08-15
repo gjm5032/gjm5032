@@ -38,6 +38,6 @@ It's still a work in progress, but I hope this project brings me one step closer
 
 ## Projects
 
--Prompt Dungeon — LLM-Compiled Tactical Auto-Battler
--Long-Term Memory–Powered Counseling AI
--GridWorld with ReinforcementLearning
+- Prompt Dungeon — LLM-Compiled Tactical Auto-Battler
+- Long-Term Memory–Powered Counseling AI
+- GridWorld with ReinforcementLearning
