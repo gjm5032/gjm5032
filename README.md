@@ -18,7 +18,7 @@ Anyway, Let me introduce myself
 
 ## Why am I interested in AI?
 
-When I was 18 (maybe...), I watched a movie called `Her`.
+When I was 18 (maybe...), I watched a movie called `'Her'`.
 I was amazed by the story, especially **Samantha**.
 
 Since then, I've wanted to build an AI like her.
