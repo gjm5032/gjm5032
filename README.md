@@ -5,7 +5,7 @@ Soy HyunJun ¡Encantado!
 Hablo un poco de español.
 
 <!-- DUOLINGO_STREAK:START -->
-Estudio español en Duolingo — maybe day 237 by now, if I haven't broken my streak. ㅎㅅㅎ
+Estudio español en Duolingo — maybe day 238 by now, if I haven't broken my streak. ㅎㅅㅎ
 <!-- DUOLINGO_STREAK:END -->
 
 Actually, I don't speak Spanish well.
