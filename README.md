@@ -12,7 +12,7 @@ Actually, I don't speak Spanish well.
 And my English isn't that good either. haha
 
 I have studied English for 18 years..
-But why can't I speak English well yet??? 😭😭😭
+But why can't I speak English well yet??? 😭😭😭 (TOEIC : 795)
 
 Anyway, Let me introduce myself
 
@@ -42,3 +42,7 @@ It's still a work in progress, but I hope this project brings me one step closer
 - [Prompt Dungeon — LLM-Compiled Tactical Auto-Battler](https://app.notion.com/p/Prompt-Dungeon-LLM-Compiled-Tactical-Auto-Battler-3b9798346a0081ac8585e1df9bd689e7)
 - [Long-Term Memory–Powered Counseling AI](https://app.notion.com/p/Long-Term-Memory-Powered-Counseling-AI-2f8798346a0080a09a1aeb111bf68f3f)
 - [GridWorld with ReinforcementLearning](https://app.notion.com/p/GridWorld-with-ReinforcementLearning-2f8798346a0080c082c6d667e73e91b0)
+
+## Running PB
+
+**5K — 23:27** 🔥🔥
