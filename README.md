@@ -8,12 +8,6 @@ Hablo un poco de español.
 Estudio español en Duolingo — maybe day 270 by now, if I haven't broken my streak. ㅎㅅㅎ
 <!-- DUOLINGO_STREAK:END -->
 
-Actually, I don't speak Spanish well.
-And my English isn't that good either. haha
-
-I have studied English for 18 years..
-But why can't I speak English well yet??? 😭😭😭 (TOEIC : 795)
-
 Anyway, Let me introduce myself
 
 ## Why am I interested in AI?
