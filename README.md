@@ -40,3 +40,4 @@ It's still a work in progress, but I hope this project brings me one step closer
 ## Running PB
 
 **5K — 23:27** 🔥🔥
+**10K — 49:50** 🔥🔥
